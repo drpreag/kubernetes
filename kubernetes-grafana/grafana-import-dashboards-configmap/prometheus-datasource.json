@@ -1,0 +1,7 @@
+{
+  "name": "prometheus",
+  "type": "prometheus",
+  "url": "http://cluster.internal.jatheon.com:30000",
+  "access": "proxy",
+  "basicAuth": false
+}
