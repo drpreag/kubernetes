@@ -9,4 +9,4 @@ or on github:
 Run configmap, deployment and service: 
 	kubectl -n monitoring create -f *.yaml
 
-Prometheus service is nodeported on cluster.internal.jatheon.com:30000
+Prometheus service is nodeported on master_node_ip:30000
